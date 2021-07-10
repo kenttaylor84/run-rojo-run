@@ -24,13 +24,18 @@ export default {
 </script>
 
 <style>
+body {
+  margin: 0px;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  /* text-align: center; */
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 20px; */
+  margin: 0px;
 }
 #myVideo {
   position: fixed;
@@ -40,10 +45,10 @@ export default {
   min-height: 100%;
 }
 #content {
-  position: fixed;
-
+  position: absolute;
   color: black;
   width: 100%;
-  padding: 20px;
+  margin: 0px;
+  /* text-align: center; */
 }
 </style>

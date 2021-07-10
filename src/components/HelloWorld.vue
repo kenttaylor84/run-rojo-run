@@ -1,7 +1,248 @@
 <template>
-  <div class="hello">
+  <!-- <div class="hello">
     <h1>{{ msg }}</h1>
     
+
+  </div> -->
+  <div id ="bodyContent" class="bodyContent">
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
+    <br />
+    <div class="el1">Element 1</div>
+    <div class="el2">Element 2</div>
+    <div class="el3">Element 3</div>
+    <div class="el4">Element 4</div>
   </div>
 </template>
 
@@ -16,6 +257,17 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+#bodyContent {
+
+}
+
+.bodyContent {
+  border: 1px solid black;
+  margin: 0px;
+  padding: 10px;
+}
+
+
 h3 {
   margin: 40px 0 0;
 }
