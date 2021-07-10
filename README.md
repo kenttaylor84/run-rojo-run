@@ -9,6 +9,10 @@ https://nodejs.org/en/download/
 
 Install
 ```
+## Install Visual Studio Code
+```
+https://code.visualstudio.com/download
+```
 ## Project setup
 ```
 npm install
