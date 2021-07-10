@@ -260,13 +260,24 @@ export default {
 #bodyContent {
 
 }
-
 .bodyContent {
   border: 1px solid black;
   margin: 0px;
   padding: 10px;
 }
-
+.el1 {
+  background: rgba(255, 255, 255, 0.5);
+}
+.el2 {
+  background: rgba(255, 0, 0, 0.5);
+}
+.el3 {
+  background: rgba(25, 0, 255, 0.5);
+}
+.el4 {
+  background: rgba(0, 0, 0, 0.25); 
+  color: white;
+}
 
 h3 {
   margin: 40px 0 0;
