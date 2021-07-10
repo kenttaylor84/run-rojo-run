@@ -17,6 +17,10 @@ https://code.visualstudio.com/download
 ```
 npm install
 ```
+### Install Bootstrap
+```
+npm install bootstrap
+```
 
 ### Compiles and hot-reloads for development
 ```
