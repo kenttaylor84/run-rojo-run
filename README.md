@@ -1,5 +1,11 @@
 # run-rojo-run
 
+## Install Node.js
+```
+
+Download and install the latest version of Node.js
+https://nodejs.org/en/download/
+
 ## Project setup
 ```
 npm install
