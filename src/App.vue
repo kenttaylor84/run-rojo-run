@@ -3,8 +3,8 @@
   <source src="./assets/ru_flag.mp4" type="video/mp4">
 </video>
 <div id="content">
-  <img alt="Vue logo" src="./assets/gone-phisin-brutalwisconsin.png">
-  <HelloWorld msg="Welcome to Your New Hell.js"/>
+  
+  <HelloWorld msg="в настоящее время ведется строительство"/>
 </div>
 </template>
 
@@ -37,8 +37,8 @@ export default {
 }
 #content {
   position: fixed;
-  bottom: 0;
-  color: #f1f1f1;
+
+  color: black;
   width: 100%;
   padding: 20px;
 }
