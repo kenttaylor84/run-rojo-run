@@ -3,8 +3,12 @@
   <source src="./assets/ru_flag.mp4" type="video/mp4">
 </video>
 <div id="content">
+  <!-- TODO?: nav -->
   
   <HelloWorld msg="в настоящее время ведется строительство"/>
+  <!-- TODO: running timer -->
+
+  <!-- TODO: more content -->
 </div>
 </template>
 
