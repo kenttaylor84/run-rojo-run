@@ -3,9 +3,12 @@
 ## Install Node.js
 ```
 
-Download and install the latest version of Node.js
+Download and install the latest version of Node.js from
+
 https://nodejs.org/en/download/
 
+Install
+```
 ## Project setup
 ```
 npm install
