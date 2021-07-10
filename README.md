@@ -13,7 +13,7 @@ Install
 ```
 https://code.visualstudio.com/download
 ```
-## Project setup
+## Project setup (Terminal commands)
 ```
 npm install
 ```
